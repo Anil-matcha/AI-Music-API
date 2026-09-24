@@ -1,0 +1,1 @@
+ai-music-api,music-generation-api,text-to-music,suno-api,python,javascript,curl,muapi,rest-api,audio-generation,music-ai,minimax-music,developer-tools,api-client,generative-ai,machine-learning,soundtrack-generation,lyrics-to-music,music-production,audio-api
